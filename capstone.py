@@ -1,6 +1,4 @@
-```
-Struck and Thakare
-```
+# Gaius Augustus & Connel Ching'anda
 
 import pandas as pd
 from matplotlib import pyplot as plt
